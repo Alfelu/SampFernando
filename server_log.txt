@@ -1,0 +1,954 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:40:38] gamemode0 = ""  (string)
+[18:40:38] 
+[18:40:38] Server Plugins
+[18:40:38] --------------
+[18:40:38]  Loaded 0 plugins.
+
+[18:40:38] I couldn't load any gamemode scripts. Please verify your server.cfg
+[18:40:38] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:40:56] gamemode0 = ""  (string)
+[18:40:56] 
+[18:40:56] Server Plugins
+[18:40:56] --------------
+[18:40:56]  Loaded 0 plugins.
+
+[18:40:56] I couldn't load any gamemode scripts. Please verify your server.cfg
+[18:40:56] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:42:38] gamemode0 = ""  (string)
+[18:42:38] 
+[18:42:38] Server Plugins
+[18:42:38] --------------
+[18:42:38]  Loaded 0 plugins.
+
+[18:42:38] I couldn't load any gamemode scripts. Please verify your server.cfg
+[18:42:38] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:42:46] gamemode0 = ""  (string)
+[18:42:46] 
+[18:42:46] Server Plugins
+[18:42:46] --------------
+[18:42:46]  Loaded 0 plugins.
+
+[18:42:46] I couldn't load any gamemode scripts. Please verify your server.cfg
+[18:42:46] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:43:19] gamemode0 = ""  (string)
+[18:43:19] 
+[18:43:19] Server Plugins
+[18:43:19] --------------
+[18:43:19]  Loaded 0 plugins.
+
+[18:43:19] I couldn't load any gamemode scripts. Please verify your server.cfg
+[18:43:19] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:45:27] gamemode0 = ""  (string)
+[18:45:27] 
+[18:45:27] Server Plugins
+[18:45:27] --------------
+[18:45:27]  Loaded 0 plugins.
+
+[18:45:28] I couldn't load any gamemode scripts. Please verify your server.cfg
+[18:45:28] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:45:31] gamemode0 = ""  (string)
+[18:45:31] 
+[18:45:31] Server Plugins
+[18:45:31] --------------
+[18:45:31]  Loaded 0 plugins.
+
+[18:45:31] I couldn't load any gamemode scripts. Please verify your server.cfg
+[18:45:31] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:45:32] gamemode0 = ""  (string)
+[18:45:32] 
+[18:45:32] Server Plugins
+[18:45:32] --------------
+[18:45:32]  Loaded 0 plugins.
+
+[18:45:32] I couldn't load any gamemode scripts. Please verify your server.cfg
+[18:45:32] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:45:33] gamemode0 = ""  (string)
+[18:45:33] 
+[18:45:33] Server Plugins
+[18:45:33] --------------
+[18:45:34]  Loaded 0 plugins.
+
+[18:45:34] I couldn't load any gamemode scripts. Please verify your server.cfg
+[18:45:34] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:48:46] gamemode0 = ""  (string)
+[18:48:46] 
+[18:48:46] Server Plugins
+[18:48:46] --------------
+[18:48:46]  Loaded 0 plugins.
+
+[18:48:46] I couldn't load any gamemode scripts. Please verify your server.cfg
+[18:48:46] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:52:45] gamemode0 = ""  (string)
+[18:52:45] 
+[18:52:45] Server Plugins
+[18:52:45] --------------
+[18:52:45]  Loaded 0 plugins.
+
+[18:52:45] I couldn't load any gamemode scripts. Please verify your server.cfg
+[18:52:45] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:55:53] gamemode0 = ""  (string)
+[18:55:53] 
+[18:55:53] Server Plugins
+[18:55:53] --------------
+[18:55:53]  Loaded 0 plugins.
+
+[18:55:53] I couldn't load any gamemode scripts. Please verify your server.cfg
+[18:55:53] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:37:17] 
+[20:37:17] Server Plugins
+[20:37:17] --------------
+[20:37:17]  Loaded 0 plugins.
+
+[20:37:17] I couldn't load any gamemode scripts. Please verify your server.cfg
+[20:37:17] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:39:12] 
+[20:39:12] Server Plugins
+[20:39:12] --------------
+[20:39:12]  Loaded 0 plugins.
+
+[20:39:12] 
+[20:39:12] Filterscripts
+[20:39:12] ---------------
+[20:39:12]   Loading filterscript 'gl_actions.amx'...
+[20:39:12]   Loading filterscript 'gl_realtime.amx'...
+[20:39:12]   Loading filterscript 'gl_property.amx'...
+[20:39:12] 
+-----------------------------------
+[20:39:12] Grand Larceny Property Filterscript		
+[20:39:12] -----------------------------------
+
+[20:39:12]   Loading filterscript 'gl_mapicon.amx'...
+[20:39:12]   Loading filterscript 'ls_elevator.amx'...
+[20:39:12]   Loading filterscript 'attachments.amx'...
+[20:39:12]   Loading filterscript 'skinchanger.amx'...
+[20:39:12] 
+--Admin Player Skin Changer Loaded
+
+[20:39:12]   Loading filterscript 'vspawner.amx'...
+[20:39:12] 
+--Admin Vehicle Spawner Loaded
+
+[20:39:12]   Loading filterscript 'ls_mall.amx'...
+[20:39:12]   Loading filterscript 'ls_beachside.amx'...
+[20:39:12] 
+
+[20:39:12]   |---------------------------------------------------
+[20:39:12]   |--- LS BeachSide Filterscript
+[20:39:12]   |--  Script v1.03
+[20:39:12]   |--  19th April 2015
+[20:39:12]   |---------------------------------------------------
+[20:39:12]   |--  LS BeachSide Building Elevator created
+[20:39:12]   |---------------------------------------------------
+[20:39:12]   Loaded 10 filterscripts.
+
+[20:39:12] Reading File: blank
+[20:39:12] Reading File: properties/houses.txt
+[20:39:12] Reading File: properties/businesses.txt
+[20:39:12] Reading File: properties/banks.txt
+[20:39:12] Reading File: properties/police.txt
+[20:39:12] TropaRP
+[20:39:12] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:48:35] 
+[00:48:35] Server Plugins
+[00:48:35] --------------
+[00:48:35]  Loaded 0 plugins.
+
+[00:48:35] 
+[00:48:35] Filterscripts
+[00:48:35] ---------------
+[00:48:35]   Loading filterscript 'gl_actions.amx'...
+[00:48:35]   Loading filterscript 'gl_realtime.amx'...
+[00:48:35]   Loading filterscript 'gl_property.amx'...
+[00:48:35] 
+-----------------------------------
+[00:48:35] Grand Larceny Property Filterscript		
+[00:48:35] -----------------------------------
+
+[00:48:35]   Loading filterscript 'gl_mapicon.amx'...
+[00:48:35]   Loading filterscript 'ls_elevator.amx'...
+[00:48:35]   Loading filterscript 'attachments.amx'...
+[00:48:35]   Loading filterscript 'skinchanger.amx'...
+[00:48:35] 
+--Admin Player Skin Changer Loaded
+
+[00:48:35]   Loading filterscript 'vspawner.amx'...
+[00:48:35] 
+--Admin Vehicle Spawner Loaded
+
+[00:48:35]   Loading filterscript 'ls_mall.amx'...
+[00:48:35]   Loading filterscript 'ls_beachside.amx'...
+[00:48:35] 
+
+[00:48:35]   |---------------------------------------------------
+[00:48:35]   |--- LS BeachSide Filterscript
+[00:48:35]   |--  Script v1.03
+[00:48:35]   |--  19th April 2015
+[00:48:35]   |---------------------------------------------------
+[00:48:35]   |--  LS BeachSide Building Elevator created
+[00:48:35]   |---------------------------------------------------
+[00:48:35]   Loaded 10 filterscripts.
+
+[00:48:35] Reading File: blank
+[00:48:35] Reading File: properties/houses.txt
+[00:48:35] Reading File: properties/businesses.txt
+[00:48:35] Reading File: properties/banks.txt
+[00:48:35] Reading File: properties/police.txt
+[00:48:35] TropaRP
+[00:48:35] Number of vehicle models: 0
+[00:49:11] [connection] 192.168.0.12:62795 requests connection cookie.
+[00:49:12] [connection] incoming connection: 192.168.0.12:62795 id: 0
+[00:49:12] [join] SleeivekiNgt09 has joined the server (0:192.168.0.12)
+[00:49:43] [part] SleeivekiNgt09 has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:57:48] 
+[00:57:48] Server Plugins
+[00:57:48] --------------
+[00:57:48]  Loaded 0 plugins.
+
+[00:57:48] 
+[00:57:48] Filterscripts
+[00:57:48] ---------------
+[00:57:48]   Loading filterscript 'gl_actions.amx'...
+[00:57:48]   Loading filterscript 'gl_realtime.amx'...
+[00:57:48]   Loading filterscript 'gl_property.amx'...
+[00:57:48] 
+-----------------------------------
+[00:57:48] Grand Larceny Property Filterscript		
+[00:57:48] -----------------------------------
+
+[00:57:48]   Loading filterscript 'gl_mapicon.amx'...
+[00:57:48]   Loading filterscript 'ls_elevator.amx'...
+[00:57:48]   Loading filterscript 'attachments.amx'...
+[00:57:48]   Loading filterscript 'skinchanger.amx'...
+[00:57:48] 
+--Admin Player Skin Changer Loaded
+
+[00:57:48]   Loading filterscript 'vspawner.amx'...
+[00:57:48] 
+--Admin Vehicle Spawner Loaded
+
+[00:57:48]   Loading filterscript 'ls_mall.amx'...
+[00:57:48]   Loading filterscript 'ls_beachside.amx'...
+[00:57:48] 
+
+[00:57:48]   |---------------------------------------------------
+[00:57:48]   |--- LS BeachSide Filterscript
+[00:57:48]   |--  Script v1.03
+[00:57:48]   |--  19th April 2015
+[00:57:48]   |---------------------------------------------------
+[00:57:48]   |--  LS BeachSide Building Elevator created
+[00:57:48]   |---------------------------------------------------
+[00:57:48]   Loaded 10 filterscripts.
+
+[00:57:48] Reading File: blank
+[00:57:48] Reading File: properties/houses.txt
+[00:57:48] Reading File: properties/businesses.txt
+[00:57:48] Reading File: properties/banks.txt
+[00:57:48] Reading File: properties/police.txt
+[00:57:48] TropaRP
+[00:57:48] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:08:17] 
+[01:08:17] Server Plugins
+[01:08:17] --------------
+[01:08:17]  Loaded 0 plugins.
+
+[01:08:17] 
+[01:08:17] Filterscripts
+[01:08:17] ---------------
+[01:08:17]   Loading filterscript 'gl_actions.amx'...
+[01:08:17]   Loading filterscript 'gl_realtime.amx'...
+[01:08:17]   Loading filterscript 'gl_property.amx'...
+[01:08:17] 
+-----------------------------------
+[01:08:17] Grand Larceny Property Filterscript		
+[01:08:17] -----------------------------------
+
+[01:08:17]   Loading filterscript 'gl_mapicon.amx'...
+[01:08:17]   Loading filterscript 'ls_elevator.amx'...
+[01:08:17]   Loading filterscript 'attachments.amx'...
+[01:08:17]   Loading filterscript 'skinchanger.amx'...
+[01:08:17] 
+--Admin Player Skin Changer Loaded
+
+[01:08:17]   Loading filterscript 'vspawner.amx'...
+[01:08:17] 
+--Admin Vehicle Spawner Loaded
+
+[01:08:17]   Loading filterscript 'ls_mall.amx'...
+[01:08:17]   Loading filterscript 'ls_beachside.amx'...
+[01:08:17] 
+
+[01:08:17]   |---------------------------------------------------
+[01:08:17]   |--- LS BeachSide Filterscript
+[01:08:17]   |--  Script v1.03
+[01:08:17]   |--  19th April 2015
+[01:08:17]   |---------------------------------------------------
+[01:08:17]   |--  LS BeachSide Building Elevator created
+[01:08:17]   |---------------------------------------------------
+[01:08:17]   Loaded 10 filterscripts.
+
+[01:08:17] Reading File: blank
+[01:08:17] Reading File: properties/houses.txt
+[01:08:17] Reading File: properties/businesses.txt
+[01:08:17] Reading File: properties/banks.txt
+[01:08:17] Reading File: properties/police.txt
+[01:08:17] TropaRP
+[01:08:17] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:13:28] 
+[01:13:29] Server Plugins
+[01:13:29] --------------
+[01:13:29]  Loaded 0 plugins.
+
+[01:13:30] 
+[01:13:30] Filterscripts
+[01:13:30] ---------------
+[01:13:30]   Loading filterscript 'gl_actions.amx'...
+[01:13:30]   Loading filterscript 'gl_realtime.amx'...
+[01:13:30]   Loading filterscript 'gl_property.amx'...
+[01:13:31] 
+-----------------------------------
+[01:13:31] Grand Larceny Property Filterscript		
+[01:13:31] -----------------------------------
+
+[01:13:31]   Loading filterscript 'gl_mapicon.amx'...
+[01:13:31]   Loading filterscript 'ls_elevator.amx'...
+[01:13:31]   Loading filterscript 'attachments.amx'...
+[01:13:31]   Loading filterscript 'skinchanger.amx'...
+[01:13:31] 
+--Admin Player Skin Changer Loaded
+
+[01:13:31]   Loading filterscript 'vspawner.amx'...
+[01:13:32] 
+--Admin Vehicle Spawner Loaded
+
+[01:13:32]   Loading filterscript 'ls_mall.amx'...
+[01:13:32]   Loading filterscript 'ls_beachside.amx'...
+[01:13:32] 
+
+[01:13:32]   |---------------------------------------------------
+[01:13:32]   |--- LS BeachSide Filterscript
+[01:13:32]   |--  Script v1.03
+[01:13:32]   |--  19th April 2015
+[01:13:32]   |---------------------------------------------------
+[01:13:32]   |--  LS BeachSide Building Elevator created
+[01:13:32]   |---------------------------------------------------
+[01:13:32]   Loaded 10 filterscripts.
+
+[01:13:32] Reading File: blank
+[01:13:32] Reading File: properties/houses.txt
+[01:13:32] Reading File: properties/businesses.txt
+[01:13:32] Reading File: properties/banks.txt
+[01:13:32] Reading File: properties/police.txt
+[01:13:32] TropaRP
+[01:13:32] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:40:15] 
+[01:40:15] Server Plugins
+[01:40:15] --------------
+[01:40:15]  Loaded 0 plugins.
+
+[01:40:15] 
+[01:40:15] Filterscripts
+[01:40:15] ---------------
+[01:40:15]   Loading filterscript 'gl_actions.amx'...
+[01:40:15]   Loading filterscript 'gl_realtime.amx'...
+[01:40:15]   Loading filterscript 'gl_property.amx'...
+[01:40:15] 
+-----------------------------------
+[01:40:15] Grand Larceny Property Filterscript		
+[01:40:15] -----------------------------------
+
+[01:40:15]   Loading filterscript 'gl_mapicon.amx'...
+[01:40:15]   Loading filterscript 'ls_elevator.amx'...
+[01:40:15]   Loading filterscript 'attachments.amx'...
+[01:40:15]   Loading filterscript 'skinchanger.amx'...
+[01:40:15] 
+--Admin Player Skin Changer Loaded
+
+[01:40:15]   Loading filterscript 'vspawner.amx'...
+[01:40:15] 
+--Admin Vehicle Spawner Loaded
+
+[01:40:15]   Loading filterscript 'ls_mall.amx'...
+[01:40:15]   Loading filterscript 'ls_beachside.amx'...
+[01:40:15] 
+
+[01:40:15]   |---------------------------------------------------
+[01:40:15]   |--- LS BeachSide Filterscript
+[01:40:15]   |--  Script v1.03
+[01:40:15]   |--  19th April 2015
+[01:40:15]   |---------------------------------------------------
+[01:40:15]   |--  LS BeachSide Building Elevator created
+[01:40:15]   |---------------------------------------------------
+[01:40:15]   Loaded 10 filterscripts.
+
+[01:40:15] Reading File: blank
+[01:40:15] Reading File: properties/houses.txt
+[01:40:15] Reading File: properties/businesses.txt
+[01:40:15] Reading File: properties/banks.txt
+[01:40:15] Reading File: properties/police.txt
+[01:40:15] TropaRP
+[01:40:15] Number of vehicle models: 0
+[01:40:44] [connection] 192.168.0.12:61993 requests connection cookie.
+[01:40:45] [connection] incoming connection: 192.168.0.12:61993 id: 0
+[01:40:45] [join] SleeivekiNgt09 has joined the server (0:192.168.0.12)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:44:50] 
+[01:44:50] Server Plugins
+[01:44:50] --------------
+[01:44:50]  Loaded 0 plugins.
+
+[01:44:50] 
+[01:44:50] Filterscripts
+[01:44:50] ---------------
+[01:44:50]   Loading filterscript 'gl_actions.amx'...
+[01:44:50]   Loading filterscript 'gl_realtime.amx'...
+[01:44:50]   Loading filterscript 'gl_property.amx'...
+[01:44:50] 
+-----------------------------------
+[01:44:50] Grand Larceny Property Filterscript		
+[01:44:50] -----------------------------------
+
+[01:44:50]   Loading filterscript 'gl_mapicon.amx'...
+[01:44:50]   Loading filterscript 'ls_elevator.amx'...
+[01:44:50]   Loading filterscript 'attachments.amx'...
+[01:44:50]   Loading filterscript 'skinchanger.amx'...
+[01:44:50] 
+--Admin Player Skin Changer Loaded
+
+[01:44:50]   Loading filterscript 'vspawner.amx'...
+[01:44:50] 
+--Admin Vehicle Spawner Loaded
+
+[01:44:50]   Loading filterscript 'ls_mall.amx'...
+[01:44:50]   Loading filterscript 'ls_beachside.amx'...
+[01:44:50] 
+
+[01:44:50]   |---------------------------------------------------
+[01:44:50]   |--- LS BeachSide Filterscript
+[01:44:50]   |--  Script v1.03
+[01:44:50]   |--  19th April 2015
+[01:44:50]   |---------------------------------------------------
+[01:44:50]   |--  LS BeachSide Building Elevator created
+[01:44:50]   |---------------------------------------------------
+[01:44:50]   Loaded 10 filterscripts.
+
+[01:44:50] Reading File: blank
+[01:44:50] Reading File: properties/houses.txt
+[01:44:50] Reading File: properties/businesses.txt
+[01:44:50] Reading File: properties/banks.txt
+[01:44:50] Reading File: properties/police.txt
+[01:44:50] TropaRP
+[01:44:50] Number of vehicle models: 0
+[01:45:14] [connection] 192.168.0.12:53160 requests connection cookie.
+[01:45:15] [connection] incoming connection: 192.168.0.12:53160 id: 0
+[01:45:15] [join] SleeivekiNgt09 has joined the server (0:192.168.0.12)
+[01:45:31] [part] SleeivekiNgt09 has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:38:13] 
+[12:38:13] Server Plugins
+[12:38:13] --------------
+[12:38:13]  Loaded 0 plugins.
+
+[12:38:14] 
+[12:38:14] Filterscripts
+[12:38:14] ---------------
+[12:38:14]   Loading filterscript 'gl_actions.amx'...
+[12:38:14]   Loading filterscript 'gl_realtime.amx'...
+[12:38:14]   Loading filterscript 'gl_property.amx'...
+[12:38:14] 
+-----------------------------------
+[12:38:14] Grand Larceny Property Filterscript		
+[12:38:14] -----------------------------------
+
+[12:38:14]   Loading filterscript 'gl_mapicon.amx'...
+[12:38:14]   Loading filterscript 'ls_elevator.amx'...
+[12:38:14]   Loading filterscript 'attachments.amx'...
+[12:38:14]   Loading filterscript 'skinchanger.amx'...
+[12:38:14] 
+--Admin Player Skin Changer Loaded
+
+[12:38:14]   Loading filterscript 'vspawner.amx'...
+[12:38:14] 
+--Admin Vehicle Spawner Loaded
+
+[12:38:14]   Loading filterscript 'ls_mall.amx'...
+[12:38:14]   Loading filterscript 'ls_beachside.amx'...
+[12:38:14] 
+
+[12:38:14]   |---------------------------------------------------
+[12:38:14]   |--- LS BeachSide Filterscript
+[12:38:14]   |--  Script v1.03
+[12:38:14]   |--  19th April 2015
+[12:38:14]   |---------------------------------------------------
+[12:38:14]   |--  LS BeachSide Building Elevator created
+[12:38:14]   |---------------------------------------------------
+[12:38:14]   Loaded 10 filterscripts.
+
+[12:38:14] Script[gamemodes/TropaRP.amx]: Run time error 17: "Invalid/unsupported P-code file format"
+[12:38:14] Failed to load 'gamemodes/TropaRP.amx' script.
+[12:38:14] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:39:09] 
+[12:39:09] Server Plugins
+[12:39:09] --------------
+[12:39:09]  Loaded 0 plugins.
+
+[12:39:09] 
+[12:39:09] Filterscripts
+[12:39:09] ---------------
+[12:39:09]   Loading filterscript 'gl_actions.amx'...
+[12:39:09]   Loading filterscript 'gl_realtime.amx'...
+[12:39:09]   Loading filterscript 'gl_property.amx'...
+[12:39:09] 
+-----------------------------------
+[12:39:09] Grand Larceny Property Filterscript		
+[12:39:09] -----------------------------------
+
+[12:39:09]   Loading filterscript 'gl_mapicon.amx'...
+[12:39:09]   Loading filterscript 'ls_elevator.amx'...
+[12:39:09]   Loading filterscript 'attachments.amx'...
+[12:39:09]   Loading filterscript 'skinchanger.amx'...
+[12:39:09] 
+--Admin Player Skin Changer Loaded
+
+[12:39:09]   Loading filterscript 'vspawner.amx'...
+[12:39:09] 
+--Admin Vehicle Spawner Loaded
+
+[12:39:09]   Loading filterscript 'ls_mall.amx'...
+[12:39:09]   Loading filterscript 'ls_beachside.amx'...
+[12:39:09] 
+
+[12:39:09]   |---------------------------------------------------
+[12:39:09]   |--- LS BeachSide Filterscript
+[12:39:09]   |--  Script v1.03
+[12:39:09]   |--  19th April 2015
+[12:39:09]   |---------------------------------------------------
+[12:39:09]   |--  LS BeachSide Building Elevator created
+[12:39:09]   |---------------------------------------------------
+[12:39:09]   Loaded 10 filterscripts.
+
+[12:39:09] Script[gamemodes/TropaRP.amx]: Run time error 17: "Invalid/unsupported P-code file format"
+[12:39:09] Failed to load 'gamemodes/TropaRP.amx' script.
+[12:39:09] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:39:56] 
+[12:39:56] Server Plugins
+[12:39:56] --------------
+[12:39:56]  Loaded 0 plugins.
+
+[12:39:56] 
+[12:39:56] Filterscripts
+[12:39:56] ---------------
+[12:39:56]   Loading filterscript 'gl_actions.amx'...
+[12:39:56]   Loading filterscript 'gl_realtime.amx'...
+[12:39:56]   Loading filterscript 'gl_property.amx'...
+[12:39:56] 
+-----------------------------------
+[12:39:56] Grand Larceny Property Filterscript		
+[12:39:56] -----------------------------------
+
+[12:39:56]   Loading filterscript 'gl_mapicon.amx'...
+[12:39:56]   Loading filterscript 'ls_elevator.amx'...
+[12:39:56]   Loading filterscript 'attachments.amx'...
+[12:39:56]   Loading filterscript 'skinchanger.amx'...
+[12:39:56] 
+--Admin Player Skin Changer Loaded
+
+[12:39:56]   Loading filterscript 'vspawner.amx'...
+[12:39:56] 
+--Admin Vehicle Spawner Loaded
+
+[12:39:56]   Loading filterscript 'ls_mall.amx'...
+[12:39:56]   Loading filterscript 'ls_beachside.amx'...
+[12:39:56] 
+
+[12:39:56]   |---------------------------------------------------
+[12:39:56]   |--- LS BeachSide Filterscript
+[12:39:56]   |--  Script v1.03
+[12:39:56]   |--  19th April 2015
+[12:39:56]   |---------------------------------------------------
+[12:39:56]   |--  LS BeachSide Building Elevator created
+[12:39:56]   |---------------------------------------------------
+[12:39:56]   Loaded 10 filterscripts.
+
+[12:39:56] Script[gamemodes/TropaRP.amx]: Run time error 17: "Invalid/unsupported P-code file format"
+[12:39:56] Failed to load 'gamemodes/TropaRP.amx' script.
+[12:39:56] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:42:37] 
+[12:42:37] Server Plugins
+[12:42:37] --------------
+[12:42:37]  Loaded 0 plugins.
+
+[12:42:37] 
+[12:42:37] Filterscripts
+[12:42:37] ---------------
+[12:42:37]   Loading filterscript 'gl_actions.amx'...
+[12:42:37]   Loading filterscript 'gl_realtime.amx'...
+[12:42:37]   Loading filterscript 'gl_property.amx'...
+[12:42:37] 
+-----------------------------------
+[12:42:37] Grand Larceny Property Filterscript		
+[12:42:37] -----------------------------------
+
+[12:42:37]   Loading filterscript 'gl_mapicon.amx'...
+[12:42:37]   Loading filterscript 'ls_elevator.amx'...
+[12:42:37]   Loading filterscript 'attachments.amx'...
+[12:42:37]   Loading filterscript 'skinchanger.amx'...
+[12:42:38] 
+--Admin Player Skin Changer Loaded
+
+[12:42:38]   Loading filterscript 'vspawner.amx'...
+[12:42:38] 
+--Admin Vehicle Spawner Loaded
+
+[12:42:38]   Loading filterscript 'ls_mall.amx'...
+[12:42:38]   Loading filterscript 'ls_beachside.amx'...
+[12:42:38] 
+
+[12:42:38]   |---------------------------------------------------
+[12:42:38]   |--- LS BeachSide Filterscript
+[12:42:38]   |--  Script v1.03
+[12:42:38]   |--  19th April 2015
+[12:42:38]   |---------------------------------------------------
+[12:42:38]   |--  LS BeachSide Building Elevator created
+[12:42:38]   |---------------------------------------------------
+[12:42:38]   Loaded 10 filterscripts.
+
+[12:42:38] Reading File: blank
+[12:42:38] Reading File: properties/houses.txt
+[12:42:38] Reading File: properties/businesses.txt
+[12:42:38] Reading File: properties/banks.txt
+[12:42:38] Reading File: properties/police.txt
+[12:42:38] TropaRP
+[12:42:38] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:14:54] 
+[15:14:54] Server Plugins
+[15:14:54] --------------
+[15:14:54]  Loaded 0 plugins.
+
+[15:14:54] 
+[15:14:54] Filterscripts
+[15:14:54] ---------------
+[15:14:54]   Loading filterscript 'gl_actions.amx'...
+[15:14:54]   Loading filterscript 'gl_realtime.amx'...
+[15:14:54]   Loading filterscript 'gl_property.amx'...
+[15:14:54] 
+-----------------------------------
+[15:14:54] Grand Larceny Property Filterscript		
+[15:14:54] -----------------------------------
+
+[15:14:54]   Loading filterscript 'gl_mapicon.amx'...
+[15:14:54]   Loading filterscript 'ls_elevator.amx'...
+[15:14:54]   Loading filterscript 'attachments.amx'...
+[15:14:54]   Loading filterscript 'skinchanger.amx'...
+[15:14:54] 
+--Admin Player Skin Changer Loaded
+
+[15:14:54]   Loading filterscript 'vspawner.amx'...
+[15:14:54] 
+--Admin Vehicle Spawner Loaded
+
+[15:14:54]   Loading filterscript 'ls_mall.amx'...
+[15:14:54]   Loading filterscript 'ls_beachside.amx'...
+[15:14:54] 
+
+[15:14:54]   |---------------------------------------------------
+[15:14:54]   |--- LS BeachSide Filterscript
+[15:14:54]   |--  Script v1.03
+[15:14:54]   |--  19th April 2015
+[15:14:54]   |---------------------------------------------------
+[15:14:54]   |--  LS BeachSide Building Elevator created
+[15:14:54]   |---------------------------------------------------
+[15:14:54]   Loaded 10 filterscripts.
+
+[15:14:54] Reading File: blank
+[15:14:54] Reading File: properties/houses.txt
+[15:14:54] Reading File: properties/businesses.txt
+[15:14:54] Reading File: properties/banks.txt
+[15:14:54] Reading File: properties/police.txt
+[15:14:54] TropaRP
+[15:14:54] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:15:39] 
+[15:15:39] Server Plugins
+[15:15:39] --------------
+[15:15:39]  Loaded 0 plugins.
+
+[15:15:39] 
+[15:15:39] Filterscripts
+[15:15:39] ---------------
+[15:15:39]   Loading filterscript 'gl_actions.amx'...
+[15:15:39]   Loading filterscript 'gl_realtime.amx'...
+[15:15:39]   Loading filterscript 'gl_property.amx'...
+[15:15:39] 
+-----------------------------------
+[15:15:39] Grand Larceny Property Filterscript		
+[15:15:39] -----------------------------------
+
+[15:15:39]   Loading filterscript 'gl_mapicon.amx'...
+[15:15:39]   Loading filterscript 'ls_elevator.amx'...
+[15:15:39]   Loading filterscript 'attachments.amx'...
+[15:15:39]   Loading filterscript 'skinchanger.amx'...
+[15:15:39] 
+--Admin Player Skin Changer Loaded
+
+[15:15:39]   Loading filterscript 'vspawner.amx'...
+[15:15:39] 
+--Admin Vehicle Spawner Loaded
+
+[15:15:39]   Loading filterscript 'ls_mall.amx'...
+[15:15:39]   Loading filterscript 'ls_beachside.amx'...
+[15:15:39] 
+
+[15:15:39]   |---------------------------------------------------
+[15:15:39]   |--- LS BeachSide Filterscript
+[15:15:39]   |--  Script v1.03
+[15:15:39]   |--  19th April 2015
+[15:15:39]   |---------------------------------------------------
+[15:15:39]   |--  LS BeachSide Building Elevator created
+[15:15:39]   |---------------------------------------------------
+[15:15:39]   Loaded 10 filterscripts.
+
+[15:15:39] Reading File: blank
+[15:15:39] Reading File: properties/houses.txt
+[15:15:39] Reading File: properties/businesses.txt
+[15:15:39] Reading File: properties/banks.txt
+[15:15:39] Reading File: properties/police.txt
+[15:15:39] TropaRP
+[15:15:39] Number of vehicle models: 0
+[15:16:46] [connection] 189.94.125.100:3313 requests connection cookie.
+[15:16:47] [connection] incoming connection: 189.94.125.100:3313 id: 0
+[15:16:47] [join] NeverD has joined the server (0:189.94.125.100)
+[15:17:02] [connection] 179.157.136.183:53228 requests connection cookie.
+[15:17:03] [connection] incoming connection: 179.157.136.183:53228 id: 1
+[15:17:04] [join] SleeivekiNgt09 has joined the server (1:179.157.136.183)
+[15:17:13] [part] SleeivekiNgt09 has left the server (1:1)
